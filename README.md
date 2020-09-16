@@ -1,1 +1,1 @@
-# startuplandingpage-github.io
+# startuplandingpage.github.io
